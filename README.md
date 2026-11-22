@@ -51,7 +51,7 @@ it as a filtered deck.
 2. In Anki on a computer: **File > Import**, choose the file, and import with the default options.
 3. Sync, if you study on a phone or on AnkiWeb.
 
-The deck is large (the world deck is about 490 MB, mostly maps and flags), so the first sync takes a while.
+The deck is large (the world deck is about 470 MB, mostly maps and flags), so the first sync takes a while.
 
 Pronunciations play automatically on the cards that have them. To stop that, tick **Don't play audio
 automatically** in the deck's options (the Audio section).
