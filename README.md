@@ -105,8 +105,7 @@ its card. In particular:
 
 **Maps**
 - Natural Earth - public domain - https://www.naturalearthdata.com/
-- GADM 4.1 - free for academic and other non-commercial use; Austria's data the Government of Austria's,
-  CC BY-SA 2.0 - https://gadm.org/
+- GADM 4.1 - https://gadm.org/; Austria's data the Government of Austria's, CC BY-SA 2.0
 - geoBoundaries (gbOpen) - each country's file under its own licence (CC BY, CC BY-SA, ODbL or public domain),
   named on its cards - https://www.geoboundaries.org/
 - Overture Maps Foundation, divisions and base (OpenStreetMap contributors, ODbL 1.0; Esri Community Maps,
