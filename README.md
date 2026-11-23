@@ -11,6 +11,35 @@ attached:
 
 and `capital_points.tsv` with its licence note (see [Licence](#licence)).
 
+## What the cards look like
+
+Four cards from the world deck, the question on the left and the answer on the right, rendered from the deck's
+card templates at phone width, without Anki's window around them.
+
+<table>
+<tr><th>Question</th><th>Answer</th></tr>
+<tr><td colspan="2"><b>Map -> place.</b> The place highlighted on its country's map, with a closer view and its
+place on the globe. The answer gives the English and native names, the IPA and recordings.</td></tr>
+<tr><td valign="top"><img src="images/map-front.png" width="360" alt="Map card question: Kerala highlighted on a map of India"></td>
+<td valign="top"><img src="images/map-back.png" width="360" alt="Map card answer: Kerala, its name in Malayalam and its IPA"></td></tr>
+<tr><td colspan="2"><b>Flag -> place.</b> Lettering that names the place is painted out of the question's
+picture; the answer shows the flag as published, with the place's map.</td></tr>
+<tr><td valign="top"><img src="images/flag-front.png" width="360" alt="Flag card question: the flag of Kansas with its name painted out"></td>
+<td valign="top"><img src="images/flag-back.png" width="360" alt="Flag card answer: the flag of Kansas as published, and its map"></td></tr>
+<tr><td colspan="2"><b>Place -> map.</b> Tap the place on its country's map; the answer judges the tap and
+shows where the place is.</td></tr>
+<tr><td valign="top"><img src="images/tap-front.png" width="360" alt="Tap card question: Bavaria, and a blank map of Germany's states"></td>
+<td valign="top"><img src="images/tap-back.png" width="360" alt="Tap card answer: the tap on Bavaria judged a hit"></td></tr>
+<tr><td colspan="2">A miss on the same kind of card: the answer marks the tap, names the place tapped and shows
+the one asked.</td></tr>
+<tr><td valign="top"><img src="images/miss-front.png" width="360" alt="Tap card question: Chiang Mai Province, and a blank map of Thailand's provinces"></td>
+<td valign="top"><img src="images/miss-back.png" width="360" alt="Tap card answer: a tap on Chiang Rai Province judged a miss, Chiang Mai Province shown"></td></tr>
+<tr><td colspan="2"><b>Capital -> place.</b> The capital in English and in its own languages; the answer marks
+it on the place's map.</td></tr>
+<tr><td valign="top"><img src="images/capital-front.png" width="360" alt="Capital card question: Chur, in German and Romansh"></td>
+<td valign="top"><img src="images/capital-back.png" width="360" alt="Capital card answer: Grisons, with Chur marked on its map"></td></tr>
+</table>
+
 ## What is in it
 
 One note per region, keyed on its ISO 3166 code (or a GADM code where ISO has none). A note makes only the
